@@ -1,6 +1,6 @@
 # Fawsayni - Système de Gestion de Pharmacie
 
-![Fawsayni Logo](https://img.shields.io/badge/Fawsayni-Gestion%20de%20Pharmacie-009688?style=for-the-badge)
+![Fawsayni home](https://github.com/eldieng/Gestion_des_Stocks_Pharmacie/blob/main/home.png)
 
 Fawsayni est une application web complète pour la gestion de pharmacie, développée avec PHP et MySQL. Elle permet aux pharmaciens de gérer efficacement leur inventaire, les ventes, les achats et le personnel.
 
@@ -86,14 +86,14 @@ define('CURRENCY', 'XOF');
 <details>
 <summary>Voir les captures d'écran</summary>
 
-### Page d'accueil
-![Page d'accueil](screenshots/accueil.png)
-
 ### Tableau de bord
-![Tableau de bord](screenshots/dashboard.png)
+![Page tableau de bord ](https://github.com/eldieng/Gestion_des_Stocks_Pharmacie/blob/main/interface.png)
 
 ### Gestion des médicaments
-![Gestion des médicaments](screenshots/medicaments.png)
+![Gestion des médicaments](https://github.com/eldieng/Gestion_des_Stocks_Pharmacie/blob/main/medicaments.png)
+
+### Historique des ventes
+![Historique des ventes](https://github.com/eldieng/Gestion_des_Stocks_Pharmacie/blob/main/historique.png)
 
 </details>
 
